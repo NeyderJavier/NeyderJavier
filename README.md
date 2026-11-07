@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Neyder Rojas 👋
 
-<!--
-**NeyderJavier/NeyderJavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Sistemas** en la **Universidad Simón Bolívar** (Cúcuta, Colombia). Me interesan la visión artificial, el Deep Learning, los métodos numéricos y el desarrollo web.
 
-Here are some ideas to get you started:
+## 🔭 Proyectos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Detección de indicadores posturales de escoliosis** *(en desarrollo)*: investigación sobre visión artificial y Deep Learning para analizar la postura corporal en secuencias de imágenes. Usa un dataset de radiografías en formato YOLOv5.
+- **Autoescalado de servidores con Punto Fijo**: proyecto de Análisis Numérico en Python. Usa el método de Punto Fijo para asignar recursos de servidor de forma automática según la carga.
+
+## 🛠️ Herramientas
+
+`Python` · `YOLOv5` · `Kaggle` · `HTML` · `CSS` · `Make` · `Git`
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neyder%20Rojas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neyder-javier-rojas-lasso-952a36196)
